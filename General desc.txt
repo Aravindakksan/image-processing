@@ -1,0 +1,26 @@
+General Description:
+--------------------------------------
+	
+	Our Project consists of three modules. They are described as follows with the corresponding source codes,
+		
+		MODULE-1: 
+		---------------------
+			 Image capturing using PI cam and storing it in Raspberry Pi.
+
+		SOURCECODE:  timelapse.py
+
+
+
+		MODULE-2:
+		---------------------
+			 Processing the captured image and comparing it by using predefined 				dataset with the help of AI (Image processing using Python).
+
+		SOURCECODE:  compare.py
+
+
+
+		MODULE-3:
+		--------------------- 
+			Getting notification through MAIL.
+
+		SOURCECODE:  mail.py
